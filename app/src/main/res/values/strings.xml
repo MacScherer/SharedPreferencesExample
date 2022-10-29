@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferencesExemplo</string>
+    <string name="insert_your_text">Insert your text</string>
+    <string name="save">Save</string>
+    <string name="button">Button</string>
+    <string name="applytext">ApplyText</string>
+    <string name="apply_text">Apply Text</string>
+    <string name="save_data">Save Data</string>
+</resources>
